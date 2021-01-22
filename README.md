@@ -26,6 +26,7 @@ The objectives of the Scheme are:
  Smart Parking plays an important role in creating better urban environment by reducing
 the emission of CO2 and other pollutants
 
+
 <img width="451" alt="IoT2" src="https://user-images.githubusercontent.com/40309757/105427202-a2a9db80-5c72-11eb-91a1-ceca7e8bad58.PNG">
 
  CONNECTIONS
