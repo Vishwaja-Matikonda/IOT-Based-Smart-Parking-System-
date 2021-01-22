@@ -1,6 +1,11 @@
 IOT-Based-Smart-Parking-System
 
+
+<img width="452" alt="Iot" src="https://user-images.githubusercontent.com/40309757/105427199-a2114500-5c72-11eb-9e5c-5a4a4297a7a9.PNG">
+
 In the current era the number of vehicles is increasing day by day. Parking vehicle in metropolitan cities has created havoc indeed that has created a major problem to park their vehicles in designated place which leads to traffic congestion during peak hours. In recent times the concept of smart cities have gained great popularity. Thanks to the evolution of Internet of things the idea of smart city now seems to be achievable. Consistent efforts are being made in the field of IoT in order to maximize the productivity and reliability of urban infrastructure. Problems such as, traffic congestion, limited car parking facilities and road safety are being addressed by IoT. And generally people are facing problems on parking vehicles in parking slots in a city The proposed Smart Parking system consists of an on-site deployment of an IoT module that is used to monitor and signalize the state of availability of each single parking space. And it mainly focus on reducing the time in finding the parking lots and also it avoids the unnecessary travelling through filled parking lots in a parking area. Thus it reduces the fuel consumption which in turn reduces carbon footprints in an atmosphere.
+
+<img width="213" alt="IoT4" src="https://user-images.githubusercontent.com/40309757/105427206-a3db0880-5c72-11eb-9e14-3a7da6dfebe6.PNG">
 
 PROBLEM STATEMENT
 The parking management problem can be viewed from several angles.
@@ -20,6 +25,8 @@ The objectives of the Scheme are:
  Provides the real– time status of parking slots.
  Smart Parking plays an important role in creating better urban environment by reducing
 the emission of CO2 and other pollutants
+
+<img width="451" alt="IoT2" src="https://user-images.githubusercontent.com/40309757/105427202-a2a9db80-5c72-11eb-91a1-ceca7e8bad58.PNG">
 
  CONNECTIONS
  AT LCD DISPLAY
